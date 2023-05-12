@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "771890384469",
+    "project_id": "tweetvio-706d6",
+    "storage_bucket": "tweetvio-706d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771890384469:android:30aba68a17ee8754d7cedc",
+        "android_client_info": {
+          "package_name": "tweetvio.com.tweetvio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771890384469-ekf041ns9v422vrt2644kmo3fv63qcn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tweetvio.com.tweetvio",
+            "certificate_hash": "1599a51d18289703b96ee7f40bbc8a24b65b4ee3"
+          }
+        },
+        {
+          "client_id": "771890384469-b6vouar8lm17bj2o9ddh2cr6aes72v1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCzSib36YQdjLlgTk_8kVCiJ6g038yR18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771890384469-b6vouar8lm17bj2o9ddh2cr6aes72v1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
